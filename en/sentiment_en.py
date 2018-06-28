@@ -21,12 +21,9 @@ def add_sentiment (feed):
         text = clean_data(text)
         testimonial = TextBlob(text)
         polarity = testimonial.sentiment.polarity
-        if polarity > 0:
-            item['marker-color'] = "#32ad67"
-        elif polarity == 0:
-            item['marker-color'] = "#3174af"
-        else:
-            item['marker-color'] = "#ce4437"
+        item['marker-color'] = "#718ad8"
+        if polarity < 0:
+            item['marker-color'] = "#F36170"
     f = open(feed + '.json', 'w')
     json.dump(data, f)
 
