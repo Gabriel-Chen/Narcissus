@@ -1,230 +1,294 @@
 [
   {
-    "Environmental Keywords in English": "Environment"
+    "Environmental Keywords in English": "Environment",
+	"symbol" : "garden"
   },
   {
-    "Environmental Keywords in English": "Contamination"
+    "Environmental Keywords in English": "Contamination",
+	"symbol" : "roadblock"
   },
   {
-    "Environmental Keywords in English": "Environmental pollution"
+    "Environmental Keywords in English": "Environmental pollution",
+	"symbol" : "triangle"
   },
   {
-    "Environmental Keywords in English": "Air pollution"
+    "Environmental Keywords in English": "Air pollution",
+	"symbol" : "circle-stroked"
   },
   {
-    "Environmental Keywords in English": "Water contamination"
+    "Environmental Keywords in English": "Water",
+	"symbol" : "water" 
   },
   {
-    "Environmental Keywords in English": "Sea pollution"
+    "Environmental Keywords in English": "Sea pollution",
+	"symbol" : "swimming"
   },
   {
-    "Environmental Keywords in English": "Contamination beaches"
+    "Environmental Keywords in English": "Contamination beaches",
+	"symbol" : "marker-stroked"
   },
   {
-    "Environmental Keywords in English": "Contamination"
+    "Environmental Keywords in English": "Dump",
+	"symbol" : "waste-basket"
   },
   {
-    "Environmental Keywords in English": "Dump"
+    "Environmental Keywords in English": "Trash",
+	"symbol" : "waste-basket"
   },
   {
-    "Environmental Keywords in English": "Trash"
+    "Environmental Keywords in English": "Waste",
+	"symbol" : "waste-basket"
   },
   {
-    "Environmental Keywords in English": "Dump"
+    "Environmental Keywords in English": "Soils",
+	"symbol" : "natural"
   },
   {
-    "Environmental Keywords in English": "Waste"
+    "Environmental Keywords in English": "Degradation of soils",
+	"symbol" : "natural"
   },
   {
-    "Environmental Keywords in English": "Soils"
+    "Environmental Keywords in English": "Fracking",
+	"symbol" : "drinking-water"
   },
   {
-    "Environmental Keywords in English": "Degradation of soils"
+    "Environmental Keywords in English": "Lack of drinking water",
+	"symbol" : "drinking-water"
   },
   {
-    "Environmental Keywords in English": "Fracking"
+    "Environmental Keywords in English": "Mines",
+	"symbol" : "mountain"
   },
   {
-    "Environmental Keywords in English": "Lack of drinking water"
+    "Environmental Keywords in English": "Mining",
+	"symbol" : "mountain"
   },
   {
-    "Environmental Keywords in English": "Mines"
+    "Environmental Keywords in English": "Extraction",
+	"symbol" : "mountain"
   },
   {
-    "Environmental Keywords in English": "Mining"
+    "Environmental Keywords in English": "Extraction of resources",
+	"symbol" : "natural"
   },
   {
-    "Environmental Keywords in English": "Extraction"
+    "Environmental Keywords in English": "Industrial contamination",
+	"symbol" : "ferry"
   },
   {
-    "Environmental Keywords in English": "Extraction of resources"
+    "Environmental Keywords in English": "Forests",
+	"symbol" : "park-alt1"
   },
   {
-    "Environmental Keywords in English": "Industrial contamination"
+    "Environmental Keywords in English": "Deforestation",
+	"symbol" : "park-alt1"
   },
   {
-    "Environmental Keywords in English": "Forests"
+    "Environmental Keywords in English": "Environmental permits",
+	"symbol" : "fence"
   },
   {
-    "Environmental Keywords in English": "Deforestation"
+    "Environmental Keywords in English": "Permit for use",
+	"symbol" : "fence"
   },
   {
-    "Environmental Keywords in English": "Environmental permits"
+    "Environmental Keywords in English": "Fishing",
+	"symbol" : "aquarium"
   },
   {
-    "Environmental Keywords in English": "Permit for use"
+    "Environmental Keywords in English": "Illegal fishing",
+	"symbol" : "aquarium"
   },
   {
-    "Environmental Keywords in English": "Fishing"
+    "Environmental Keywords in English": "Biodiversity",
+	"symbol" : "library"
   },
   {
-    "Environmental Keywords in English": "Illegal fishing"
+    "Environmental Keywords in English": "Emissions",
+	"symbol" : "cross"
   },
   {
-    "Environmental Keywords in English": "Biodiversity"
+    "Environmental Keywords in English": "Black waters",
+	"symbol" : "water"
   },
   {
-    "Environmental Keywords in English": "Emissions"
+    "Environmental Keywords in English": "Waste management",
+	"symbol" : "waste-basket"
   },
   {
-    "Environmental Keywords in English": "Black waters"
+    "Environmental Keywords in English": "Environmental rules",
+	"symbol" : "library"
   },
   {
-    "Environmental Keywords in English": "Waste management"
+    "Environmental Keywords in English": "Toxic substances",
+	"symbol" : "danger"
   },
   {
-    "Environmental Keywords in English": "Environmental rules"
+    "Environmental Keywords in English": "Environmental authority",
+	"symbol" : "information"
   },
   {
-    "Environmental Keywords in English": "Toxic substances"
+    "Environmental Keywords in English": "Transgenics",
+	"symbol" : "square-stroked"
   },
   {
-    "Environmental Keywords in English": "Environmental authority"
+    "Environmental Keywords in English": "Unhealthy",
+	"symbol" : "danger"
   },
   {
-    "Environmental Keywords in English": "Transgenics"
+    "Environmental Keywords in English": "Landfill",
+	"symbol" : "waste-basket"
   },
   {
-    "Environmental Keywords in English": "Unhealthy"
+    "Environmental Keywords in English": "Environmental damage",
+	"symbol" : "cross"
   },
   {
-    "Environmental Keywords in English": "Landfill"
+    "Environmental Keywords in English": "Environmental hazard",
+	"symbol" : "danger"
   },
   {
-    "Environmental Keywords in English": "Environmental damage"
+    "Environmental Keywords in English": "Environmental fine",
+	"symbol" : "bank"
   },
   {
-    "Environmental Keywords in English": "Environmental hazard"
+    "Environmental Keywords in English": "Fine pollution",
+	"symbol" : "bank"
   },
   {
-    "Environmental Keywords in English": "Environmental fine"
+    "Environmental Keywords in English": "Environmental evaluation",
+	"symbol" : "embassy"
   },
   {
-    "Environmental Keywords in English": "Fine pollution"
+    "Environmental Keywords in English": "Environmental impact",
+	"symbol" : "library"
   },
   {
-    "Environmental Keywords in English": "Environmental evaluation"
+    "Environmental Keywords in English": "Tree felling",
+	"symbol" : "park"
   },
   {
-    "Environmental Keywords in English": "Environmental impact"
+    "Environmental Keywords in English": "Logging",
+	"symbol" : "logging"
   },
   {
-    "Environmental Keywords in English": "Tree felling"
+    "Environmental Keywords in English": "Environmental protest",
+	"symbol" : "karaoke"
   },
   {
-    "Environmental Keywords in English": "Logging"
+    "Environmental Keywords in English": "Environmental cleaning",
+	"symbol" : "garden-center"
   },
   {
-    "Environmental Keywords in English": "Environmental protest"
+    "Environmental Keywords in English": "Environmental monitoring",
+	"symbol" : "attraction"
   },
   {
-    "Environmental Keywords in English": "Environmental cleaning"
+    "Environmental Keywords in English": "Air quality",
+	"symbol" : "airport"
   },
   {
-    "Environmental Keywords in English": "Environmental monitoring"
+    "Environmental Keywords in English": "Solar plant",
+	"symbol" : "star-stroked"
   },
   {
-    "Environmental Keywords in English": "Air quality"
+    "Environmental Keywords in English": "Renewable energy",
+	"symbol" : "recycling"
   },
   {
-    "Environmental Keywords in English": "Solar plant"
+    "Environmental Keywords in English": "Environmentalist",
+	"symbol" : "garden"
   },
   {
-    "Environmental Keywords in English": "Renewable energy"
+    "Environmental Keywords in English": "Environmental activist",
+	"symbol" : "karaoke"
   },
   {
-    "Environmental Keywords in English": "Environmentalist"
+    "Environmental Keywords in English": "Environmental reporter",
+	"symbol" : "karaoke"
   },
   {
-    "Environmental Keywords in English": "Environmental activist"
+    "Environmental Keywords in English": "Reforestation",
+	"symbol" : "partk-alt1"
   },
   {
-    "Environmental Keywords in English": "Environmental reporter"
+    "Environmental Keywords in English": "Protect environment",
+	"symbol" : "defibrillator"
   },
   {
-    "Environmental Keywords in English": "Reforestation"
+    "Environmental Keywords in English": "Land conflicts",
+	"symbol" : "square"
   },
   {
-    "Environmental Keywords in English": "Protect environment"
+    "Environmental Keywords in English": "Environmental conflicts",
+	"symbol" : "cross"
   },
   {
-    "Environmental Keywords in English": "Land conflicts"
+    "Environmental Keywords in English": "Polluting companies",
+	"symbol" : "building-alt1"
   },
   {
-    "Environmental Keywords in English": "Environmental conflicts"
+    "Environmental Keywords in English": "Brick industry",
+	"symbol" : "industry"
   },
   {
-    "Environmental Keywords in English": "Polluting companies"
+    "Environmental Keywords in English": "Burning of tires",
+	"symbol" : "fire-station"
   },
   {
-    "Environmental Keywords in English": "Brick industry"
+    "Environmental Keywords in English": "Pollution focus",
+	"symbol" : "danger"
   },
   {
-    "Environmental Keywords in English": "Ladrilleras"
+    "Environmental Keywords in English": "Trash dumpster",
+	"symbol" : "waste-basket"
   },
   {
-    "Environmental Keywords in English": "Burning of tires"
+    "Environmental Keywords in English": "Forest fire",
+	"symbol" : "fire-station"
   },
   {
-    "Environmental Keywords in English": "Pollution focus"
+    "Environmental Keywords in English": "Atmospheric emergency",
+	"symbol" : "defibrillator"
   },
   {
-    "Environmental Keywords in English": "Trash dumpster"
+    "Environmental Keywords in English": "Sanitary drainage",
+	"symbol" : "toilet"
   },
   {
-    "Environmental Keywords in English": "Forest fire"
+    "Environmental Keywords in English": "Environmental contingency",
+	"symbol" : "heliport"
   },
   {
-    "Environmental Keywords in English": "Atmospheric emergency"
+    "Environmental Keywords in English": "Exploit resources",
+	"symbol" : "natural"
   },
   {
-    "Environmental Keywords in English": "Sanitary drainage"
+    "Environmental Keywords in English": "Land exploitation",
+	"symbol" : "square"
   },
   {
-    "Environmental Keywords in English": "Environmental contingency"
+    "Environmental Keywords in English": "Indigenous peoples",
+	"symbol" : "village"
   },
   {
-    "Environmental Keywords in English": "Exploit resources"
+    "Environmental Keywords in English": "Ecocide",
+	"symbol" : "triangle"
   },
   {
-    "Environmental Keywords in English": "Land exploitation"
+    "Environmental Keywords in English": "Environmental quality",
+	"symbol" : "heart"
   },
   {
-    "Environmental Keywords in English": "Indigenous peoples"
+    "Environmental Keywords in English": "Distribution of environmental quality",
+	"symbol" : "heart"
   },
   {
-    "Environmental Keywords in English": "Ecocide"
+    "Environmental Keywords in English": "Taking of indigenous lands",
+	"symbol" : "landuse"
   },
   {
-    "Environmental Keywords in English": "Environmental quality"
-  },
-  {
-    "Environmental Keywords in English": "Distribution of environmental quality"
-  },
-  {
-    "Environmental Keywords in English": "Taking of indigenous lands"
-  },
-  {
-    "Environmental Keywords in English": "Conflicts of indigenous lands"
+    "Environmental Keywords in English": "Conflicts of indigenous lands",
+	"symbol" : "landuse"
   }
 ]

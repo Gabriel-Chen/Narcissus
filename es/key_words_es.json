@@ -1,24 +1,31 @@
 [
   {
-    "Environmental Keywords in Spanish": "Medio ambiente"
+    "Environmental Keywords in Spanish": "Medio ambiente",
+	"symbol" : "garden"
   },
   {
-    "Environmental Keywords in Spanish": "Contaminacion"
+    "Environmental Keywords in Spanish": "Contaminacion",
+	"symbol" : "roadblock"
   },
   {
-    "Environmental Keywords in Spanish": "Contaminacion ambiental"
+    "Environmental Keywords in Spanish": "Contaminacion ambiental",
+	"symbol" : "triangle"
   },
   {
-    "Environmental Keywords in Spanish": "Contaminacion de aire"
+    "Environmental Keywords in Spanish": "Contaminacion de aire",
+	"symbol" : "circle-stroked"
   },
   {
-    "Environmental Keywords in Spanish": "Contaminacion de agua"
+    "Environmental Keywords in Spanish": "Contaminacion de agua",
+	"symbol" : "water" 
   },
   {
-    "Environmental Keywords in Spanish": "Contaminacion mar"
+    "Environmental Keywords in Spanish": "Contaminacion mar",
+	"symbol" : "swimming"
   },
   {
-    "Environmental Keywords in Spanish": "Contaminacion playas"
+    "Environmental Keywords in Spanish": "Contaminacion playas",
+	"symbol" : "marker-stroked"
   },
   {
     "Environmental Keywords in Spanish": "Contaminacion rios"

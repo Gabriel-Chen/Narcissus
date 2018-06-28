@@ -26,9 +26,12 @@ def retrieve_tweets_key (key):
 
 def retrieve_tweets (key_word):
     print(key_word)
-    #feed = open(key_word + '.json', 'r')
-    data_list = [ ] #json.load(feed)
-    #feed.close()
+    try:
+        feed = open(key_word + '.json', 'r')
+        data_list = json.load(feed)
+        feed.close()
+    except:
+        data_list = [ ]
     for status in tweepy.Cursor(api.search, q=key_word).items(50):
         print("successfully retrieved!")
         data_list.append(status._json)
