@@ -28,4 +28,4 @@ def convert (feed):
     f.close()
 
 if __name__ == "__main__":
-    convert('data_loc')
+    convert('data_loc_es')

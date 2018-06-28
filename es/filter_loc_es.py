@@ -1,4 +1,3 @@
-import csv
 import json
 
 def get_data_with_loc(key_word, data_list):
@@ -12,14 +11,16 @@ def get_data_with_loc(key_word, data_list):
 
 def feed_keywords (out_f):
     data_list = [ ]
-    out_f = open(out_f, 'w')
-    words_sheet = open('key_words_es.csv')
-    reader = csv.DictReader(words_sheet)
-    for row in reader:
-        key_word = row['Environmental Keywords in Spanish']
+    out_f = open(out_f + '.json', encoding='latin-1', mode='w')
+    words_sheet = open('key_words_es.json', encoding='latin-1', mode='r')
+    reader = json.load(words_sheet)
+    words_sheet.close()
+    for item in reader:
+        key_word = item['Environmental Keywords in Spanish']
         data_list = get_data_with_loc(key_word, data_list)
     json.dump(data_list, out_f)
+    out_f.close()
     return True
 
 if __name__ == "__main__":
-    feed_keywords('data_loc.json')
+    feed_keywords('data_loc_es')

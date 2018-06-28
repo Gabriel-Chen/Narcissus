@@ -3,7 +3,6 @@ import tweepy
 from time import sleep
 import json
 import re
-import csv
 
 # twitter credential
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
@@ -26,9 +25,12 @@ def retrieve_tweets_key (key):
 
 def retrieve_tweets (key_word):
     print(key_word)
-    feed = open(key_word + '.json', 'r')
-    data_list = json.load(feed)
-    feed.close()
+    try:
+        feed = open(key_word + '.json', encoding='latin-1', mode='r')
+        data_list = json.load(feed)
+        feed.close()
+    except:
+        data_list = [ ]
     for status in tweepy.Cursor(api.search, q=key_word).items(50):
         print("successfully retrieved!")
         data_list.append(status._json)
@@ -39,10 +41,10 @@ def retrieve_tweets (key_word):
     return data_list
 
 def feed_keywords ():
-    words_sheet = open('key_words.csv')
-    reader = csv.DictReader(words_sheet)
-    for row in reader:
-        key_word = row['Environmental Keywords in Spanish']
+    words_sheet = open('key_words_es.json', encoding='latin-1', mode='r')
+    reader = json.load(words_sheet)
+    for item in reader:
+        key_word = item['Environmental Keywords in Spanish']
         retrieve_tweets(key_word)
     return True
 
