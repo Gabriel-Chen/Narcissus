@@ -93,11 +93,11 @@
   },
   {
     "Environmental Keywords in English": "Fishing",
-	"symbol" : "aquarium"
+	"symbol" : "wetland"
   },
   {
     "Environmental Keywords in English": "Illegal fishing",
-	"symbol" : "aquarium"
+	"symbol" : "wetland"
   },
   {
     "Environmental Keywords in English": "Biodiversity",
@@ -125,7 +125,7 @@
   },
   {
     "Environmental Keywords in English": "Environmental authority",
-	"symbol" : "information"
+	"symbol" : "circle-stroked"
   },
   {
     "Environmental Keywords in English": "Transgenics",
@@ -173,7 +173,7 @@
   },
   {
     "Environmental Keywords in English": "Environmental protest",
-	"symbol" : "karaoke"
+	"symbol" : "star-stroked"
   },
   {
     "Environmental Keywords in English": "Environmental cleaning",
@@ -181,7 +181,7 @@
   },
   {
     "Environmental Keywords in English": "Environmental monitoring",
-	"symbol" : "attraction"
+	"symbol" : "camera"
   },
   {
     "Environmental Keywords in English": "Air quality",
@@ -201,11 +201,11 @@
   },
   {
     "Environmental Keywords in English": "Environmental activist",
-	"symbol" : "karaoke"
+	"symbol" : "star-stroked"
   },
   {
     "Environmental Keywords in English": "Environmental reporter",
-	"symbol" : "karaoke"
+	"symbol" : "star-stroked"
   },
   {
     "Environmental Keywords in English": "Reforestation",
