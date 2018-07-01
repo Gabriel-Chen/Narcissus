@@ -57,15 +57,15 @@
   },
   {
     "Environmental Keywords in English": "Mines",
-	"symbol" : "mountain"
+	"symbol" : "minefield"
   },
   {
     "Environmental Keywords in English": "Mining",
-	"symbol" : "mountain"
+	"symbol" : "minefield"
   },
   {
     "Environmental Keywords in English": "Extraction",
-	"symbol" : "mountain"
+	"symbol" : "minefield"
   },
   {
     "Environmental Keywords in English": "Extraction of resources",
@@ -77,11 +77,11 @@
   },
   {
     "Environmental Keywords in English": "Forests",
-	"symbol" : "park-alt1"
+	"symbol" : "park2"
   },
   {
     "Environmental Keywords in English": "Deforestation",
-	"symbol" : "park-alt1"
+	"symbol" : "park2"
   },
   {
     "Environmental Keywords in English": "Environmental permits",
