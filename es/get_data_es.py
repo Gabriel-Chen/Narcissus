@@ -31,7 +31,7 @@ def retrieve_tweets (key_word):
         feed.close()
     except:
         data_list = [ ]
-    for status in tweepy.Cursor(api.search, q=key_word).items(50):
+    for status in tweepy.Cursor(api.search, q=key_word).items(100):
         print("successfully retrieved!")
         data_list.append(status._json)
         sleep(1)
