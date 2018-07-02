@@ -34,7 +34,9 @@ def retrieve_tweets (key_word):
         data_list = [ ]
     for status in tweepy.Cursor(api.search, q=key_word).items(100):
         print("successfully retrieved!")
-        data_list.append(status._json)
+        status_j = status._json
+        status_j['keyword'] = key_word
+        data_list.append(status_j)
         sleep(1)
     out_file = open(key_word + '.json', 'w')
     json.dump(data_list, out_file)

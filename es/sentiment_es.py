@@ -16,8 +16,11 @@ def add_sentiment (feed):
     for item in data:
         text = item['text']
         text = clean_data(text)
-        text_eng =  translator.translate(text).text
-        testimonial = TextBlob(text_eng)
+        try:
+            text =  translator.translate(text).text
+        except:
+            pass
+        testimonial = TextBlob(text)
         polarity = testimonial.sentiment.polarity
         item['marker-color'] = "#718ad8"
         if polarity < 0:

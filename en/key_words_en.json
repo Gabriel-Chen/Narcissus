@@ -49,11 +49,11 @@
   },
   {
     "Environmental Keywords in English": "Fracking",
-	"symbol" : "drinking-water"
+	"symbol" : "water"
   },
   {
     "Environmental Keywords in English": "Lack of drinking water",
-	"symbol" : "drinking-water"
+	"symbol" : "water"
   },
   {
     "Environmental Keywords in English": "Mines",
@@ -225,7 +225,7 @@
   },
   {
     "Environmental Keywords in English": "Polluting companies",
-	"symbol" : "building-alt1"
+	"symbol" : "building"
   },
   {
     "Environmental Keywords in English": "Brick industry",
@@ -285,10 +285,10 @@
   },
   {
     "Environmental Keywords in English": "Taking of indigenous lands",
-	"symbol" : "landuse"
+	"symbol" : "land-use"
   },
   {
     "Environmental Keywords in English": "Conflicts of indigenous lands",
-	"symbol" : "landuse"
+	"symbol" : "land-use"
   }
 ]
